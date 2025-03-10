@@ -1,4 +1,4 @@
 
 
 My Portfolio Website
-- https://minsikhonggg.github.io/portfolio/
+- https://minsik-hong.github.io/portfolio/
